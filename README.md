@@ -1,10 +1,10 @@
 # Supervised and Unsupervised Learning
 
 This notebook provides a hands-on introduction to supervised and unsupervised machine learning techniques using Python and Scikit-Learn.
-## Open in Google Colab
+# Open in Google Colab
 [Open Notebook](https://colab.research.google.com/drive/1eZj1CWqmMi8DIXu-gJiLPK_6kGp1Nmtm?usp=sharing)
 
-## Overview
+# Overview
 
 The notebook demonstrates:
 
