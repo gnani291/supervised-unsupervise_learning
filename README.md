@@ -21,7 +21,7 @@ The notebook demonstrates:
   * Pattern Discovery
   * Data Exploration
 
-## Technologies Used
+# Technologies Used
 
 * Python
 * NumPy
@@ -29,7 +29,7 @@ The notebook demonstrates:
 * Matplotlib
 * Scikit-Learn
 
-## Learning Outcomes
+# Learning Outcomes
 
 After completing this notebook, you will understand:
 
