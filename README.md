@@ -38,6 +38,6 @@ After completing this notebook, you will understand:
 * How to train machine learning models
 * How clustering algorithms group similar data points
 
-## Author
+# Author
 
 Gnaneswar Tadiparthi
